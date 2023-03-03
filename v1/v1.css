@@ -1,0 +1,11 @@
+.product {
+    color:white;
+	margin: 3%;
+	position: relative;
+    margin-right: 10px;
+}
+
+body{
+	background-image: url("v1.img.png");
+	background-size: 100%;
+}
